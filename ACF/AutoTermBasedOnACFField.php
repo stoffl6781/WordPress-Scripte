@@ -6,6 +6,7 @@
  *  E-Mail: christoph@purin.at
  *  Licence: MIT
  *  V: 1.0.0 ~ 11.02.2022
+ *  Tested on WordPress 5.9 
  */
 
  /**
