@@ -21,7 +21,7 @@
 
 function update_custom_terms($post_id) {
 
-    if ( 'tours' != get_post_type($post_id)) {
+    if ( 'tours' != get_post_type($post_id)) {  //Add your Custom Post Type here or use WordPress defaults 'posts' / 'pages'
         return;
     }
 
